@@ -1,3 +1,6 @@
+# Predictive mapping of wholesale grain prices for rural areas in Tanzania
+# By Lavinia and DR. Jordan
+
 # Load Libraries
 library(geodata)
 library(lubridate)
