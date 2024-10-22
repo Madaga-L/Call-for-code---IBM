@@ -9,6 +9,5 @@ Features of MkulimaBot
 - Market Prices for Maize: Query the latest predicted maize prices for your region and time period.
   
 Data Sources
-
-Maize Prices: Predicted maize prices are derived from a Random Forest model using 3 year price data obtained from the Tanzania Ministry of Industry and Trade. The model takes into account several factors and provides region-specific and month-specific maize price predictions.
-Weather Data: Not yet real time. The goal is to make it real time.
+- The predicted maize prices come from a Random Forest model built using three years of maize price data obtained from the Tanzania Ministry of Industry and Trade. This model incorporates various factors and generates region-specific and month-specific maize price predictions. The predictions are focused on key market locations with a population of 20,000 or more, obtained from OpenStreetMap (OSM). These market predictions are integrated into the chatbot.
+- Weather Data: Currently, the weather data used is not real-time, but future updates aim to make it real-time for more accurate farming insights.
